@@ -1,0 +1,11 @@
+Tue Feb  4 18:58:46 2020 could not convert string to float: 'DF'
+Tue Feb  4 18:58:52 2020 could not convert string to float: 'FG'
+Tue Feb  4 18:58:58 2020 could not convert string to float: 'GG'
+Tue Feb  4 19:03:57 2020 could not convert string to float: 'RR'
+Tue Feb  4 19:03:59 2020 could not convert string to float: 
+Tue Feb  4 19:04:01 2020 could not convert string to float: 'FF'
+Tue Feb  4 19:04:05 2020 could not convert string to float: 'HH'
+Tue Feb  4 19:34:25 2020 could not convert string to float: 'TT'
+Tue Feb  4 19:34:30 2020 could not convert string to float: 'H'
+Tue Feb  4 19:35:44 2020 could not convert string to float: 'GG'
+Tue Feb  4 19:35:48 2020 could not convert string to float: 'HH'
